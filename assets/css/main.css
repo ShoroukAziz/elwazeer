@@ -1541,26 +1541,26 @@ nav#menu span.fa.fa-bars:hover {
   padding: 30px 0
 }
 
-.service-box {
+.whyus-box {
   margin-top: 15px;
   margin-bottom: 15px
 }
 
-.service-box .service-icon {
+.whyus-box .whyus-icon {
 
   margin-top: 5px
 }
 
-.service-box .service-icon i {
+.whyus-box .whyus-icon i {
   font-size: 62px;
   color: #1274eb
 }
 
-.service-box .service-content {
+.whyus-box .whyus-content {
   padding-left: 48px
 }
 
-.service-box .service-content h4 {
+.whyus-box .whyus-content h4 {
   font-size: 18px;
   margin-bottom: 10px;
   font-weight: 700;
@@ -1571,15 +1571,15 @@ nav#menu span.fa.fa-bars:hover {
   text-align: right
 }
 
-.service-box .service-content h4 a {
+.whyus-box .whyus-content h4 a {
   color: #444
 }
 
-.service-box .service-content h4 a:hover {
+.whyus-box .whyus-content h4 a:hover {
   color: #1274eb
 }
 
-.service-center .service-icon {
+.service-center .whyus-icon {
   float: none;
   width: 60px;
   height: 60px;
@@ -1590,7 +1590,7 @@ nav#menu span.fa.fa-bars:hover {
   text-align: center
 }
 
-.service-center .service-content {
+.service-center .whyus-content {
   padding-left: 0
 }
 
@@ -1606,20 +1606,20 @@ nav#menu span.fa.fa-bars:hover {
   font-weight: 400
 }
 
-.image-service-box h4 {
+.image-whyus-box h4 {
   font-weight: 700;
   font-size: 16px
 }
 
-.image-service-box h4 a {
+.image-whyus-box h4 a {
   color: #444
 }
 
-.image-service-box h4 a:hover {
+.image-whyus-box h4 a:hover {
   color: #1274eb
 }
 
-.image-service-box .service-text {
+.image-whyus-box .service-text {
   background: #f5f5f5;
   padding: 15px;
   border: 1px solid #e3e3e3
@@ -2362,83 +2362,83 @@ nav#menu span.fa.fa-bars:hover {
   margin-bottom: 10px
 }
 
-.blog-item-wrapper {
+.service-item-wrapper {
   box-shadow: 0px 1px 4px #ddd
 }
 
-.blog-item-wrapper .blog-item-text {
+.service-item-wrapper .service-item-text {
   padding: 20px
 }
 
-.blog-item-wrapper .blog-item-text h3 a {
+.service-item-wrapper .service-item-text h3 a {
   color: #444;
   font-size: 18px
 }
 
-.blog-item-wrapper .blog-item-text h3 a:hover {
+.service-item-wrapper .service-item-text h3 a:hover {
   color: #1274eb
 }
 
-.blog-item-wrapper .blog-item-text .meta-tags {
+.service-item-wrapper .service-item-text .meta-tags {
   font-size: 12px
 }
 
-.blog-item-wrapper .blog-item-text .meta-tags .comments a {
+.service-item-wrapper .service-item-text .meta-tags .comments a {
   color: #444;
   font-size: 12px
 }
 
-.blog-item-wrapper .blog-item-text .meta-tags .comments a:hover {
+.service-item-wrapper .service-item-text .meta-tags .comments a:hover {
   color: #1274eb
 }
 
-.blog-block {
+.service-block {
   box-shadow: 0px 1px 4px #ddd
 }
 
-.blog-block .blog-content {
+.service-block .whyus-content {
   padding: 15px
 }
 
-.blog-block .blog-content h3 {
+.service-block .whyus-content h3 {
   font-size: 18px
 }
 
-.blog-block .blog-content h3 a {
+.service-block .whyus-content h3 a {
   color: #444
 }
 
-.blog-block .blog-content h3 a:hover {
+.service-block .whyus-content h3 a:hover {
   color: #1274eb
 }
 
-.blog-post {
+.service-post {
   padding: 30px
 }
 
-.blog-post h3 {
+.service-post h3 {
   font-size: 18px
 }
 
-.blog-post h3 a {
+.service-post h3 a {
   color: #444
 }
 
-.blog-post h3 a:hover {
+.service-post h3 a:hover {
   color: #1274eb
 }
 
-.about-sidebar-widget, .categories-sidebar-widget, .blog-posts-widget {
+.about-sidebar-widget, .categories-sidebar-widget, .service-posts-widget {
   padding: 15px
 }
 
-.about-sidebar-widget h4, .categories-sidebar-widget h4, .blog-posts-widget h4 {
+.about-sidebar-widget h4, .categories-sidebar-widget h4, .service-posts-widget h4 {
   color: #222;
   padding: 10px 0;
   font-size: 20px
 }
 
-.about-sidebar-widget p, .categories-sidebar-widget p, .blog-posts-widget p {
+.about-sidebar-widget p, .categories-sidebar-widget p, .service-posts-widget p {
   color: #444
 }
 
@@ -2462,31 +2462,31 @@ nav#menu span.fa.fa-bars:hover {
   border: none
 }
 
-.blog-post-small {
+.service-post-small {
   margin-bottom: 15px;
   border-bottom: 1px solid #EFEFEF
 }
 
-.blog-post-small img {
+.service-post-small img {
   max-width: 66px;
   margin: 0 10px 0 0;
   float: left
 }
 
-.blog-post-small a {
+.service-post-small a {
   color: #999;
   font-size: 14px
 }
 
-.blog-post-small p {
+.service-post-small p {
   font-size: 12px
 }
 
-.blog-post-small .post-date {
+.service-post-small .post-date {
   font-size: 12px
 }
 
-.blog-post-small:last-child {
+.service-post-small:last-child {
   border: none
 }
 
@@ -2778,12 +2778,12 @@ nav#menu span.fa.fa-bars:hover {
   -o-transition: all 0.4s ease-in-out
 }
 
-.carousel-post {
+.carousel-service {
   margin-right: 15px;
   padding-bottom: 40px;
 }
 
-.carousel-post h5 {
+.carousel-service h5 {
   margin-top: 20px;
   text-align: center;
 }
@@ -2828,34 +2828,34 @@ nav#menu span.fa.fa-bars:hover {
   margin-right: 45px
 }
 
-#posts-carousel-3col .owl-controls .owl-buttons {
+#services-carousel-3col .owl-controls .owl-buttons {
   position: relative;
   top: -235px;
   left: 0
 }
 
-#posts-carousel-3col .owl-controls .owl-buttons div.owl-prev {
+#services-carousel-3col .owl-controls .owl-buttons div.owl-prev {
   float: left;
   margin-left: -60px
 }
 
-#posts-carousel-3col .owl-controls .owl-buttons div.owl-next {
+#services-carousel-3col .owl-controls .owl-buttons div.owl-next {
   float: right !important;
   margin-right: -45px
 }
 
-#posts-carousel .owl-controls .owl-buttons {
+#services-carousel .owl-controls .owl-buttons {
   position: relative;
   top: -235px;
   left: 0
 }
 
-#posts-carousel .owl-controls .owl-buttons div.owl-prev {
+#services-carousel .owl-controls .owl-buttons div.owl-prev {
   float: left;
   margin-left: -60px
 }
 
-#posts-carousel .owl-controls .owl-buttons div.owl-next {
+#services-carousel .owl-controls .owl-buttons div.owl-next {
   float: right !important;
   margin-right: -45px
 }
@@ -4048,11 +4048,11 @@ ul.nav-tabs li a {
     margin-right: 0px
   }
 
-  .blog-item-wrapper .blog-item-text h3 a {
+  .service-item-wrapper .service-item-text h3 a {
     font-size: 14px
   }
 
-  .blog-post-small img {
+  .service-post-small img {
     max-width: 100%
   }
 
@@ -4112,7 +4112,7 @@ ul.nav-tabs li a {
     padding: 11px 12px
   }
 
-  .service-box .service-content h4 {
+  .whyus-box .whyus-content h4 {
     font-size: 14px
   }
 
@@ -4148,11 +4148,11 @@ ul.nav-tabs li a {
     border: 0
   }
 
-  .blog-item-wrapper {
+  .service-item-wrapper {
     margin-bottom: 30px
   }
 
-  .blog-item-wrapper .blog-item-text h3 a {
+  .service-item-wrapper .service-item-text h3 a {
     font-size: 12px
   }
 
@@ -4222,7 +4222,7 @@ ul.nav-tabs li a {
     margin-bottom: 30px
   }
 
-  .service-box .service-content h4 {
+  .whyus-box .whyus-content h4 {
     font-size: 14px
   }
 
@@ -4286,7 +4286,7 @@ ul.nav-tabs li a {
     display: none
   }
 
-  .blog-item-wrapper {
+  .service-item-wrapper {
     margin-bottom: 30px
   }
 
@@ -4349,7 +4349,7 @@ ul.nav-tabs li a {
     margin-bottom: 30px
   }
 
-  .service-box .service-content h4 {
+  .whyus-box .whyus-content h4 {
     font-size: 14px
   }
 

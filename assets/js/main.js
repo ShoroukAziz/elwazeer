@@ -19,7 +19,7 @@
         itemsDesktopSmall : [979,3]
       });           
 
-      $('#posts-carousel').owlCarousel({
+      $('#services-carousel').owlCarousel({
         navigation : true,
         pagination: true,
         items : 4,
@@ -27,11 +27,11 @@
         itemsDesktopSmall : [979,3]
       });   
 
-      $('#posts-carousel').find('.owl-prev').html('<i class="fa fa-angle-left"></i>');
-      $('#posts-carousel').find('.owl-next').html('<i class="fa fa-angle-right"></i>'); 
+      $('#services-carousel').find('.owl-prev').html('<i class="fa fa-angle-left"></i>');
+      $('#services-carousel').find('.owl-next').html('<i class="fa fa-angle-right"></i>'); 
      
 
-      $('#posts-carousel-3col').owlCarousel({
+      $('#services-carousel-3col').owlCarousel({
         navigation : true,
         pagination: false,
         items : 3,
@@ -39,8 +39,8 @@
         itemsDesktopSmall : [979,3]
       });
 
-      $('#posts-carousel-3col').find('.owl-prev').html('<i class="fa fa-angle-left"></i>');
-      $('#posts-carousel-3col').find('.owl-next').html('<i class="fa fa-angle-right"></i>'); 
+      $('#services-carousel-3col').find('.owl-prev').html('<i class="fa fa-angle-left"></i>');
+      $('#services-carousel-3col').find('.owl-next').html('<i class="fa fa-angle-right"></i>'); 
   
       $('#image-slider').owlCarousel({     
           navigation : true, // Show next and prev buttons

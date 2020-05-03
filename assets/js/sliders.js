@@ -22,7 +22,7 @@
   <!-- posts carousel -->
   <script>
     $(document).ready(function() {
-      $("#posts-carousel").owlCarousel({
+      $("#services-carousel").owlCarousel({
         items: 4,
         itemsDesktop: [1199, 3],
         itemsDesktopSmall: [979, 3]
@@ -34,7 +34,7 @@
   <!-- posts carousel 3col -->
   <script>
     $(document).ready(function() {
-      $("#posts-carousel-3col").owlCarousel({
+      $("#services-carousel-3col").owlCarousel({
         items: 3,
         itemsDesktop: [1199, 3],
         itemsDesktopSmall: [979, 3]
